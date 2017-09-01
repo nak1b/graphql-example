@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "json:server": "json-server --watch db.json",
-    "graphql:server": "node server.js"
+    "graphql:server": "nodemon server.js"
   },
   "author": "Nakib Momin",
   "license": "ISC",
