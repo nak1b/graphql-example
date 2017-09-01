@@ -1,8 +1,8 @@
 ## Simple GraphQL Example Project
 
 
-#### start api server
+#### Start api server
 	npm run json:server
 
-#### start graphql server
+#### Start graphql server
 	npm run graphql:server
